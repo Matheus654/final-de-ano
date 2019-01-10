@@ -1,0 +1,11 @@
+p, h3{
+	text-align: center;
+	color: "#000000"
+}
+.src-image {
+  display: none;
+  align-self: center;
+}
+body{
+	background-color: "#E0FFFF"
+}
